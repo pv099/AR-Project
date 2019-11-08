@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="LivreAR" size="6.000000 8.533334" />
+    <ImageTarget name="SupportAR" size="2048.000000 2912.711182" />
+    <ImageTarget name="LivreBioinfo" size="400.000000 300.000000" />
+    <ImageTarget name="index" size="250.000000 166.363632" />
+  </Tracking>
+</QCARConfig>
